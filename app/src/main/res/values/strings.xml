@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio_2</string>
+    <string name="dialog_veri">cuenta verificada</string>
+    <string name="botton_check">verificar</string>
+</resources>
